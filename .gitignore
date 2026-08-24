@@ -5,3 +5,4 @@ target/
 .vscode/
 .DS_Store
 application-local.properties
+src/main/resources/application.properties
